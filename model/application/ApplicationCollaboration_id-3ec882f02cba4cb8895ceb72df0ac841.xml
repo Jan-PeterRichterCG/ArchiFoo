@@ -1,4 +1,4 @@
-<archimate:ApplicationComponent
+<archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fachverfahren A"
     id="id-3ec882f02cba4cb8895ceb72df0ac841">
@@ -8,4 +8,4 @@
   <properties
       key="Version"
       value="42.1"/>
-</archimate:ApplicationComponent>
+</archimate:ApplicationCollaboration>
