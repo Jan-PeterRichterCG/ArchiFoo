@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basis-Technologie"
+    id="id-ace05515b06149a286df084382286e62">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-4f97d80a9af242798c7f98a56e213717.xml#id-4f97d80a9af242798c7f98a56e213717"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3ec882f02cba4cb8895ceb72df0ac841.xml#id-3ec882f02cba4cb8895ceb72df0ac841"/>
+</archimate:ServingRelationship>

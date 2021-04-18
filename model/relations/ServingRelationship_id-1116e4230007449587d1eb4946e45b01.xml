@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server-Betriebssystem"
+    id="id-1116e4230007449587d1eb4946e45b01">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-fcfa8e93d68e42a4a8fb478a9fcc0b24.xml#id-fcfa8e93d68e42a4a8fb478a9fcc0b24"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3ec882f02cba4cb8895ceb72df0ac841.xml#id-3ec882f02cba4cb8895ceb72df0ac841"/>
+</archimate:ServingRelationship>
