@@ -1,8 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fachverfahren B"
-    id="id-53130dfdb49849049d6bfaf9e6701a92">
+    name="OtherLibrary"
+    id="id-b331e62659ba4d47a21ed8d04badac94"
+    documentation="Some COTS Library">
   <properties
       key="Klassifikation"
-      value="Reguläres Technisches Produkt"/>
+      value="Bibliothek"/>
 </archimate:ApplicationComponent>
