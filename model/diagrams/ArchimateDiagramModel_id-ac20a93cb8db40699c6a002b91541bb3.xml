@@ -68,7 +68,7 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationComponent"
+          xsi:type="archimate:ApplicationCollaboration"
           href="ApplicationCollaboration_id-3ec882f02cba4cb8895ceb72df0ac841.xml#id-3ec882f02cba4cb8895ceb72df0ac841"/>
     </children>
     <children

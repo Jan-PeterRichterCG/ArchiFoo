@@ -5,7 +5,4 @@
   <properties
       key="Klassifikation"
       value="Reguläres Technisches Produkt"/>
-  <properties
-      key="Version"
-      value="42.1"/>
 </archimate:ApplicationCollaboration>
