@@ -1,8 +1,8 @@
-<archimate:ApplicationComponent
+<archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fachverfahren D"
-    id="id-22497acf48ee45cdb8eecf05b78e95e7">
+    name="Fachverfahren C"
+    id="id-2041202c23f744d98ac9d3d26187f7ac">
   <properties
       key="Klassifikation"
       value="Reguläres Technisches Produkt"/>
-</archimate:ApplicationComponent>
+</archimate:ApplicationCollaboration>
